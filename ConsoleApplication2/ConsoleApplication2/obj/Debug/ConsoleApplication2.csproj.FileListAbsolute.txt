@@ -1,0 +1,33 @@
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.dll
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.xml
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\cflopezl\Personal\workspace\net\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.dll
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.xml
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\cflopezl\UMG\Ingenieria de Software\Clases\Clase 10 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.dll
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\bin\Debug\RabbitMQ.Client.xml
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\cflopezl\UMG\037 Analisis 2\Clases\Clase 5 Rabbit MQ\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
